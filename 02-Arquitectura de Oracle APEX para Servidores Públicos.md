@@ -40,4 +40,7 @@ Para entender cómo funciona APEX en acción, veamos el flujo básico de una sol
 
 >  **Oracle APEX** es una plataforma robusta que simplifica el desarrollo de aplicaciones web sin necesidad de conocimientos avanzados en programación front-end. Su arquitectura basada en la base de datos Oracle garantiza seguridad, escalabilidad y facilidad de mantenimiento.
 
-En el próximo artículo, exploraremos más a fondo cómo configurar un entorno de desarrollo con Oracle APEX y ORDS.
+En el próximo artículo, exploraremos más a fondo cómo desde cero, instalar, configurar un entorno de desarrollo con Oracle APEX y ORDS, On Premise y luego en la Nube.
+
+Siguemé, suscribeté y activa las notificaciones, que van a ser muchos post, y no te olvides de compartir.
+
