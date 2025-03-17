@@ -1,3 +1,5 @@
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrpu8lxto1da47qot373.jpeg)
+
 ### **Introducción**
 
 Si has escuchado sobre Oracle APEX y quieres entender cómo funciona por dentro, este artículo es para ti. Explicaré en términos sencillos cómo está estructurado y por qué es una herramienta tan poderosa para el desarrollo de aplicaciones web empresariales.
