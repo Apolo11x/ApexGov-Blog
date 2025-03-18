@@ -1,4 +1,6 @@
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrpu8lxto1da47qot373.jpeg)
+![Image description]()
+
+<p style="text-align:center"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrpu8lxto1da47qot373.jpeg"  alt="Apex" style="width:500px;" /> </p>
 
 ### **Introducción**
 
@@ -9,6 +11,10 @@ Oracle APEX (Application Express) es un entorno de desarrollo rápido de aplicac
 
 ### **Componentes principales de la arquitectura de Oracle APEX**
 Oracle APEX está compuesto por varios elementos clave que trabajan juntos para ofrecer un entorno de desarrollo sin necesidad de instalar software adicional en los clientes. Estos son:
+
+<p style="text-align:center"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5rzrunl9l7cs8b2y9us.png" alt="Componentes principales de la arquitectura de Oracle APEX" style="width:500px;" /></p>
+
+<p style="text-align:center"> Tomado de: https://docs.oracle.com/en/database/oracle/apex/22.1/htmig/img/apex-arch.png </p>
 
 > #### Base de Datos Oracle
 > Oracle APEX reside dentro de una base de datos Oracle. Todas las definiciones de las aplicaciones, datos, usuarios y configuraciones se almacenan en esquemas dentro de la base de datos.
@@ -28,6 +34,10 @@ Oracle APEX está compuesto por varios elementos clave que trabajan juntos para 
 
 ### **Flujo de una solicitud en APEX**
 
+<p style="text-align:center"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/urp3plqs75abyc0xndve.png" alt="Flujo de una solicitud en APEX" style="width:500px;"/> </p>
+
+<p style="text-align:center"> Tomado de: https://berriotech.blogspot.com/2015/11/arquitectura-general-de-una-aplicacion.html </p>
+
 Para entender cómo funciona APEX en acción, veamos el flujo básico de una solicitud:
 
 1. Un usuario accede a una aplicación APEX desde su navegador.
@@ -42,7 +52,7 @@ Para entender cómo funciona APEX en acción, veamos el flujo básico de una sol
 
 >  **Oracle APEX** es una plataforma robusta que simplifica el desarrollo de aplicaciones web sin necesidad de conocimientos avanzados en programación front-end. Su arquitectura basada en la base de datos Oracle garantiza seguridad, escalabilidad y facilidad de mantenimiento.
 
-En los próximos artículos, exploraremos a fondo versionamiento, historia de apex, y cómo desde cero, instalar, configurar un entorno de desarrollo con Oracle APEX y ORDS, On Premise y luego en la Nube.
+En el próximo artículo, exploraremos más a fondo cómo desde cero, instalar, configurar un entorno de desarrollo con Oracle APEX y ORDS, On Premise y luego en la Nube.
 
-Siguemé, suscribeté y activa las notificaciones, que van a ser muchos post, y no te olvides de compartir.
+Sígueme, suscribeté y activa las notificaciones, que van a ser muchos post, y no te olvides de compartir.
 
