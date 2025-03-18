@@ -1,5 +1,3 @@
-![Image description]()
-
 <p style="text-align:center"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrpu8lxto1da47qot373.jpeg"  alt="Apex" style="width:500px;" /> </p>
 
 ### **Introducción**
