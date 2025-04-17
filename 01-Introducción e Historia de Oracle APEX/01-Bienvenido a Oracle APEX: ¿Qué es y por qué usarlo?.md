@@ -2,9 +2,7 @@
 
 <div style="float: left; margin-right: 15px;">
   <img src="https://ggsitc.com/static/f81e5c89fa0e9e83b573a9b7ebfdfbed/c1587/Oracle_apex_logo_9c3e8bdfd2.webp" alt="Oracle APEX" width="100">
-</div>
-
-¡Hola y bienvenido a ApexGov! Hoy empezamos una aventura increíble en el mundo de Oracle APEX, una plataforma low-code que está revolucionando la forma de desarrollar aplicaciones web. Si eres nuevo aquí, no te preocupes, este espacio es precisamente para ti.
+</div>¡Hola y bienvenido a ApexGov! Hoy empezamos una aventura increíble en el mundo de Oracle APEX, una plataforma low-code que está revolucionando la forma de desarrollar aplicaciones web. Si eres nuevo aquí, no te preocupes, este espacio es precisamente para ti.
 
 ## ¿Qué es Oracle APEX?
 
