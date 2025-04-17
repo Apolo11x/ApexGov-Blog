@@ -16,7 +16,7 @@ PD: El Objetivo son 4 Semanas, pero se puede alrgar un poquito de acuerdo a tus 
 
 ## 🚩 Semana 1: Introducción e Historia de Oracle APEX
 
-1. [**Bienvenido a Oracle APEX: ¿Qué es y por qué usarlo?**](./01-Introducción%20e%20Historia%20de%20Oracle%20APEX/01-Bienvenido%20a%20Oracle%20APEX:%20¿Qué%20es%20y%20por%20qué%20usarlo?.md)
+1. [**Bienvenido a Oracle APEX: ¿Qué es y por qué usarlo?**](./01-Introducción e Historia de Oracle APEX/01-Bienvenido a Oracle APEX: ¿Qué es y por qué usarlo?.md)
 2. [Historia de Oracle APEX: De HTML DB hasta hoy](#)
 3. [¿Qué es Low-code y por qué está en auge?](#)
 4. [APEX vs otras plataformas Low-code](#)
